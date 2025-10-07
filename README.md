@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nellgrab
-- 👀 I’m interested in astrophysics 
+- 👋 Hi, I’m Helena and I am a PhD student at LJMU. 
+- 👀 I’m interested in Astrophysics 
 - 🌱 I’m currently learning about GRB's
 - 💞️ I’m looking to collaborate on redback and other astrophysics github software 
 - 📫 How to reach me : nellgrab@icloud.com
