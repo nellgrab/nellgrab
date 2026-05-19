@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Helena and I am a PhD student at LJMU. 
-- 👀 I’m interested in Astrophysics 
-- 🌱 I’m currently learning about GRB's
-- 💞️ I’m looking to collaborate on redback and other astrophysics github software 
+- 👀 I’m a 1st year Astrophysics PhD student studying the jets, engines and environments of Gamma-Ray Bursts
+- 💞️ I’m a contributor to redback, a bayesian inference software designed for modelling and interpreting transient objects 
 - 📫 How to reach me : nellgrab@icloud.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love books ! 
